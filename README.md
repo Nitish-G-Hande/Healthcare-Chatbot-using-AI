@@ -4,7 +4,7 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 ## Run Locally
 ###  For Backend Program
 1.Clone the  github repository into a folder by using the command
-```git clone https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI.git
+git clone https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI.git
 
 2..Inside the Project folder Run the command
 ```python chat_bot.py
