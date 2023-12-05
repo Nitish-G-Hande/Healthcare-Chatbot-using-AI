@@ -28,4 +28,4 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 4.The user can start the conversation by typing "Hello"/"hi" and press the send button to which the bot responds with an appropriate answer
 
 5.After taking various symptoms from the user, the chatbot gives its suggestion/advice regarding the disease and the severity of the disease
-![Output-1](/assets/images/Outout-1.png)
+![Output-1](/main/Outout-1.png)
