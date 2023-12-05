@@ -1,5 +1,5 @@
 # Healthcare-Chatbot
-A Chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.In this Project we used Supervised Machine learning which makes use of ** Decision-Tree Classifier ** Algorithm.
+A Chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.In this Project we used Supervised Machine learning,The **Decision-Tree Classifier** Algorithm was used to train the model.
 # Procedures to run the program
 ## Run Locally
 ###  For Backend Program
