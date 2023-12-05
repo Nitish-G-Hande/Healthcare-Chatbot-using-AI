@@ -30,5 +30,5 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 5.After taking various symptoms from the user, the chatbot gives its suggestion/advice regarding the disease and the severity of the disease
 ## Output:
 ![Screenshot (77)](https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI/assets/124708019/3419000a-1521-4182-99cf-15bae673a29f)
-![Screenshot (81)](https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI/assets/124708019/5ceef683-6120-4722-aecb-dee240cc0fd4)
 ![Screenshot (79)](https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI/assets/124708019/b10c20af-7453-4b4a-8dc8-01dbe7ebae89)
+![Screenshot (81)](https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI/assets/124708019/5ceef683-6120-4722-aecb-dee240cc0fd4)
