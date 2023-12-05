@@ -4,10 +4,10 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 ## Run Locally
 ###  For Backend Program
 1.Clone the  github repository into a folder by using the command
->>git clone https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI.git
+```git clone https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI.git
 
 2..Inside the Project folder Run the command
->>python chat_bot.py
+```python chat_bot.py
 
 3.First the program asks the user to enter his/her name and greets the user
 
@@ -18,10 +18,10 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 ## For Program With User-Interface(using tkinter)
 
 1.Inside the Project folder Run the command
->>python chat_bot_template.py
+```python chat_bot_template.py
 
 2.If the command prompt or gitbash cannot run the above command,then open Visual Studio Code or any other editor and run the program 
->>chat_bot_template.py
+```chat_bot_template.py
 
 3.This prompts the window  to open a chatbot interface where the user can interact with the chatbot
 
