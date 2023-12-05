@@ -21,7 +21,7 @@ A Chatbot based on sklearn where you can give a symptom and it will ask you ques
 ```python chat_bot_template.py```
 
 2.If the command prompt or gitbash cannot run the above command,then open Visual Studio Code or any other editor and run the program 
-```chat_bot_template.py```
+```python chat_bot_template.py```
 
 3.This prompts the window  to open a chatbot interface where the user can interact with the chatbot
 
