@@ -21,11 +21,11 @@ Decision Tree algorithm belongs to the family of supervised learning algorithms.
 
 ## Additional Packages and Libraries to be installed to run the Program
 
-```pip install tkinter```
-```pip install pillow```
-```pip install scikit-learn```
-```pip install pandas```
-```pip install numpy```
+=>```pip install tkinter``` 
+=>```pip install pillow```
+=>```pip install scikit-learn```
+=>```pip install pandas```
+=>```pip install numpy```
 
 
 ## Output:
