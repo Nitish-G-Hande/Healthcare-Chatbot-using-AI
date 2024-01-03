@@ -29,4 +29,4 @@ Decision Tree algorithm belongs to the family of supervised learning algorithms.
 
 
 ## Output:
-
+![Output-1](https://github.com/Nitish-G-Hande/Healthcare-Chatbot-using-AI/assets/124708019/f17a1f96-38da-40d5-9c4f-9f5178662026)
